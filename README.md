@@ -1,7 +1,4 @@
-Here is a **clean, professional GitHub README** tailored for your thesis.
-It is **short enough for GitHub**, but still **technical and impressive** for engineers or recruiters.
 
-You can **copy-paste this directly into `README.md`**.
 
 ---
 
